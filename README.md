@@ -1,4 +1,4 @@
-# AzureAppGatewayAppService
+# Protecting App Service Web App with Azure Application Gateway
 PowerShell creation of Azure App Gateway, App Service Web App and Azure SQL DB
 
 _Use Case:_
