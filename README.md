@@ -5,7 +5,7 @@ _Use Case:_
 
 To protect Azure Service Web Apps with the web application firewall feature in the Azure Application Gateway.
 
-![](https://roykimsharepoint.files.wordpress.com/2017/11/azureappgatewaydesign.png)
+![](/AzureAppGatewayDesign.png)
 
 Detailed design and explaination of Azure Portal configuration can be found at my blog posts:
 
