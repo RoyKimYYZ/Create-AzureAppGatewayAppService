@@ -13,3 +13,12 @@ Detailed design and explaination of Azure Portal configuration can be found at m
 * http://roykim.ca/2017/11/18/azure-application-gateway-with-azure-app-service-part-2-configuration/
 
 
+References:
+
+
+<ul>
+	<li><a href="https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-web-app-powershell" target="_blank" rel="noopener">Configure App Service Web Apps with Application Gateway</a></li>
+	<li><a href="https://blog.brooksjc.com/2017/10/22/end-to-end-ssl-with-application-gateway-and-azure-web-apps-102017/" target="_blank" rel="noopener">End to End SSL with Application Gateway and Azure Web Apps (10/2017)</a></li>
+	<li><a href="https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-configure-redirect-powershell#http-to-https-redirect-on-an-existing-application-gateway" target="_blank" rel="noopener">Configure redirection on Application Gateway with PowerShell</a></li>
+	<li><a href="https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-web-application-firewall-overview" target="_blank" rel="noopener">Web application firewall (WAF)</a></li>
+</ul>
