@@ -9,6 +9,7 @@ To protect Azure Service Web Apps with the web application firewall feature in t
 
 Detailed design and explaination of Azure Portal configuration can be found at my blog posts:
 
-* http://roykim.ca/2017/11/18/azure-application-gateway-with-azure-app-service-part-2-configuration/
 * https://roykim.ca/2017/11/11/azure-application-gateway-with-azure-app-service-part-1-design/
+* http://roykim.ca/2017/11/18/azure-application-gateway-with-azure-app-service-part-2-configuration/
+
 
